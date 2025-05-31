@@ -8,3 +8,4 @@ streamlit
 pandas
 matplotlib
 requests
+pytest
