@@ -1,4 +1,4 @@
-# Image Coreset Generator
+# PixCoreset
 
 Coresets are compact, representative subsets of large datasets that retain critical information while significantly reducing data size. This enables faster computations and efficient data processing without compromising much on accuracy, making coresets invaluable for scaling complex tasks.
 
