@@ -2,7 +2,7 @@
 
 Coresets are compact, representative subsets of large datasets that retain critical information while significantly reducing data size. This enables faster computations and efficient data processing without compromising much on accuracy, making coresets invaluable for scaling complex tasks.
 
-In this project, we demonstrate the application of coresets to image segmentation. You can explore our results on this problem in the related repository: [Coresets for Image Segmentation](https://github.com/OnePunchMonk/Coresets-for-Image-Segmentation).
+We also demonstrate the application of coresets to image segmentation. You can explore our results on this problem in the related repository: [Coresets for Image Segmentation](https://github.com/OnePunchMonk/Coresets-for-Image-Segmentation).
 
 ---
 
