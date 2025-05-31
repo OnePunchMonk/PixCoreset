@@ -29,9 +29,9 @@ We also demonstrate the application of coresets to image segmentation. You can e
 This tool allows users to upload images and generate coresets via different sampling methods. The generated coresets provide a lightweight representation of image data useful for downstream tasks like segmentation and clustering. The app displays coreset points visually alongside quantitative error metrics to evaluate performance.
 
 
-![First](first.png)
+![First](First.png)
 
-![Second](second.png)
+![Second](Second.png)
 
 ---
 ## Performance
